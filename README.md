@@ -21,5 +21,5 @@ This site shows a day planner. You can edit each time slot with text and hit sav
 
 ### Links
 
-[Repo] (https://fatherwolf.github.io/Code-Quiz/)
-[Password-Generator] (https://github.com/FatherWolf/Code-Quiz)
+[Repo] (https://github.com/FatherWolf/Calendar)
+[Calendar] (https://fatherwolf.github.io/Calendar/)
